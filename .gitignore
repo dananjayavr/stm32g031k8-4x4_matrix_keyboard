@@ -1,0 +1,6 @@
+.cproject
+.mxproject
+.project
+.settings/
+Debug/
+matrix_keyboard_project Debug.launch
